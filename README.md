@@ -59,6 +59,9 @@ Get a free key at: https://www.propublica.org/datastore/api/propublica-congress-
 - **Wikipedia API** — governor bios and career data (free, no key)
 
 ---
+## API Key info
+This app uses demo keys. You can click the "cog" (Settings) in the upper right hand corner (next to Analyze button) to store your own keys locally. If you want your own keys pre-baked, you can fork this repo, open that file, find const API_KEYS = { near the top of the script, and replace 'DEMO_KEY' with your actual API keys.
+
 
 ## 🗺 Roadmap / Planned Visualizations
 
