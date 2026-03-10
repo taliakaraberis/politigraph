@@ -1,7 +1,9 @@
 # Politigraph - Politician Transparency Dashboard
 A visual transparency dashboard for tracking politician money flows, voting records, career timelines, and age demographics. The data may be sad, but that doesn't mean we can't have fun with the visuals!
 
-This dashboard ships with illustrative data. Here's how to wire in real data:
+This dashboard ships with illustrative data. https://taliakaraberis.github.io/politigraph/index.html
+
+Here's how to wire in real data:
 
 ### 1. Campaign Finance — FEC.gov (Free, No Key Required)
 
